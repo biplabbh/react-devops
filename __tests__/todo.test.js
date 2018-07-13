@@ -4,6 +4,6 @@ import { mount } from 'enzyme';
 
 describe('App', () => {
     it('should be able to run tests', () => {
-        expect(3 + 3).toEqual(6);
+        expect(3 + 4).toEqual(7);
     });
 });
